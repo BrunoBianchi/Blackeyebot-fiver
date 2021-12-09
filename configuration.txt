@@ -1,0 +1,18 @@
+		What do I need to configurate the bot?
+		the bot is easy to configurate,all you need to do is:
+		on .env file,change the <channelId>,<guildId> and <Token> to the ids and token of the bot.
+		
+		- how can I get the channel id or guild(server) id?
+			*For computer:
+				1. Activate developer mode:settings > Advanced > enable developer mode
+				2. Go to server image / name ,right click and copy id
+				3. go to the bot user,right click and copy id
+			* For Mobile:
+			1. Activate developer mode:settings > Advanced > enable developer mode
+			2. Go to server Image / name, click and hold and copy id
+			3. go to the bot user,click and hold and copy id
+			
+		-After the initial configuration,run the bot with the following command on console:
+		node index.js
+			
+			

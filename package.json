@@ -1,0 +1,24 @@
+{
+  "name": "blackeye",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brubrunin",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "canvas": "^2.8.0",
+    "cheerio": "^1.0.0-rc.10",
+    "discord-welcome-card": "^4.0.3",
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0",
+    "fancy-text-converter": "^1.0.9",
+    "node-schedule": "^2.1.0",
+    "numeral": "^2.0.6",
+    "request-promise": "^4.2.6",
+    "screenshotapi.net": "^1.0.4"
+  }
+}
