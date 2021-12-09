@@ -21,7 +21,6 @@ const applyText = (canvas, text) => {
 	// Return the result to use in the actual canvas
 	return context.font;
 };
-require('dotenv').config()
 var fs = require('fs')
 const cheerio = require('cheerio');
 var url = 'https://shot.screenshotapi.net/screenshot?token=VHBGF4G-9YGMNAX-H8TWT5F-GQ7BAC4&url=https%3A%2F%2Fwww.dextools.io%2Fapp%2Fbsc%2Fpair-explorer%2F0xc6de9f298d9b8d97040d5fab310cef842302eb8f&width=652&height=510&fresh=true&output=image&file_type=png&wait_for_event=load&delay=10000&selector=%23tradingview&css=.floating-toggle-button%7B%0Adisplay%3A%20none%20!important%3B%0A%7D%0A.menu-flotante%7B%0Adisplay%3A%20none%20!important%3B%0A%7D%0A.layout__area--left%20%7B%0Adisplay%3A%20none%20!important%3B%0A%7D%0A.layout__area--top%7B%0Adisplay%3A%20none%20!important%3B%0A%7D%0A.presale-button%20%7B%0Adisplay%3A%20none%20!important%3B%0A%7D';
